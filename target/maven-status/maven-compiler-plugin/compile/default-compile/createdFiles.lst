@@ -1,13 +1,6 @@
-view\FormCadastrarCliente$1.class
-view\FormCadastrarUsuario.class
-view\FormCadastrarUsuario$1.class
 model\Funcionario.class
 controller\ClienteDAO.class
-view\FormLogin$2.class
-view\FormLogin$1.class
 controller\MedicamentoDAO.class
 controller\FuncionarioDAO.class
 model\Cliente.class
-view\FormCadastrarCliente.class
-view\FormLogin.class
 model\Medicamento.class
